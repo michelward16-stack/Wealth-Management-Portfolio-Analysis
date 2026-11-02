@@ -2,7 +2,7 @@
 
 Solo project for a data analytics course at Hult International Business School. I acted as a wealth manager for Client #128 (two accounts, 27 securities, $1.23M, data as of September 9, 2022): I extracted and transformed the data in MySQL, built an interactive Tableau dashboard, and wrote recommendations for management.
 
-**Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/A1Part2LoadingintoDataViz-MichelWard/Client128PortfolioDashboard)
+**Interactive dashboard:** [Tableau Public](https://public.tableau.com/views/A1Part2LoadingintoDataViz-MichelWard/BojanaPopovicPortfolioDashboard)
 
 ## Key results
 
@@ -30,14 +30,8 @@ Solo project for a data analytics course at Hult International Business School. 
 
 ## Screenshots
 
-![Dashboard overview](dashboard.png)
+![Bojana Popovic portfolio dashboard](dashboard.png)
 *Full dashboard with the Risk Limit set to 1.5% daily sigma*
-
-![Risk vs return](risk_return.png)
-*Risk vs return per holding*
-
-![Rebalancing simulation](simulation.png)
-*Portfolio risk before and after moving 10% into VTIP*
 
 ## Recommendations
 
